@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @betaways01
-- 👀 I’m interested in everything new and trendy, as I start my journey as a software engnieer
+- 👀 I’m interested in everything new and trendy as I start my journey as a software engineer
 - 🌱 I’m currently learning  `C++` and Python Deep Learning
 - 💞️ I’m looking to collaborate on `C++ projects`, `Machine Learning` in `Python`, `R` and `MATLAB`.
 - 📫 How to reach me betaways01@gmail.com, phone contanct `+254711170760`.

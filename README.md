@@ -1,4 +1,4 @@
-# Hello Hello
+# <center>Hello Hello
 # Beta Ways here
 
 - 👋 Hi, I’m @betaways01

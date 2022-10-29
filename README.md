@@ -9,7 +9,8 @@
   
     betaways01@gmail.com \
     https://www.upwork.com/services/product/development-it-data-analysis-machine-learning-r-python-stata-sas-c-1523625747626344448?ref=project_share&tier=2 \
-    https://www.fiverr.com/share/NY6rAV
+    https://www.fiverr.com/share/NY6rAV \
+  linkedin.com/in/francis-kang-ethe-nganga-47b979204
 - 📚📏📐🧑‍💻 Climbing ladders
 <!---
 betaways01/betaways01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

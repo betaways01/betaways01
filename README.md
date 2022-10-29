@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on `C++ projects`, `Machine Learning` in `Python`, `R` and `MATLAB`.
 - 📫 How to reach me:
   
-    betaways01@gmail.com \
+* **Mail** - betaways01@gmail.com \
     https://www.upwork.com/services/product/development-it-data-analysis-machine-learning-r-python-stata-sas-c-1523625747626344448?ref=project_share&tier=2 \
     https://www.fiverr.com/share/NY6rAV \
   linkedin.com/in/francis-kang-ethe-nganga-47b979204

@@ -1,11 +1,11 @@
 # <center>Hello Hello
 # Beta Ways here
 
-  - 👋 Hi, I’m @betaways01
-  - 👀 I’m interested in everything new and trendy as I start my journey as a software engineer
-  - 🌱 I’m currently learning  `C++` and Python Deep Learning
-  - 💞️ I’m looking to collaborate on `C++ projects`, `Machine Learning` in `Python`, `R` and `MATLAB`.
-  - 📫 How to reach me:
+- 👋 Hi, I’m @betaways01
+- 👀 I’m interested in everything new and trendy as I start my journey as a software engineer
+- 🌱 I’m currently learning  `C++` and Python Deep Learning
+- 💞️ I’m looking to collaborate on `C++ projects`, `Machine Learning` in `Python`, `R` and `MATLAB`.
+- 📫 How to reach me:
   
   * ***Mail📧*** - betaways01@gmail.com
   * ***Upwork🤢*** - https://www.upwork.com/services/product/development-it-data-analysis-machine-learning-r-python-stata-sas-c-1523625747626344448?ref=project_share&tier=2 

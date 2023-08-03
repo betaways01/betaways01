@@ -1,7 +1,7 @@
 <h1 align="center">HELLO WORLD . . .</h1>
 <h2 align="center">Beta Ways Up in the Place . . .🛬🛫✈️</h2>
 <div align="center">
-  <img src="https://github.com/betaways01/betaways01/assets/111149286/3cf0c43e-fe98-4f7c-9d97-9abda84efe2b" width="550" height="550" alt="Beta Ways Logo">
+  <img src="https://github.com/betaways01/betaways01/assets/111149286/3cf0c43e-fe98-4f7c-9d97-9abda84efe2b" width="450" height="450" alt="Beta Ways Logo">
 </div>
 
 <p align="center">

@@ -24,7 +24,7 @@
 ---
 
 <div align="center">
-  <em>betaways01/betaways01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.</em>
+  <em>betaways01 is a ✨ special ✨ person because he `Delivers quality code` (Can't even wait to meet me in the morning) appears on your life.</em>
   <br>
-  <em>You can click the Preview link to take a look at your changes.</em>
+  <em>You can click the Preview link to take a look at his stuff.</em>
 </div>

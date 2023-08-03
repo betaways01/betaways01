@@ -1,6 +1,8 @@
 # <center>Niaje Niaje Mtunguyazz 😍😍😍
 # Beta Ways here
-<img src="https://github.com/betaways01/betaways01/assets/111149286/2893d850-946e-4cb2-984a-5c112685a504" width="300" height="200">
+<img src="https://github.com/betaways01/betaways01/assets/111149286/2893d850-946e-4cb2-984a-5c112685a504" width="600" height="500">
+
+
 - 👋 @betaways01
 - 👀 I’m interested in everything new and trendy as I start my journey as a software engineer
 - 🌱 I’m currently learning  `C++` and Python Deep Learning

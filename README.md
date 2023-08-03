@@ -8,9 +8,9 @@
 - 📫 How to reach me:
   
   * ***Mail📧*** - betaways01@gmail.com
-  * ***Upwork🤢*** - https://www.upwork.com/services/product/development-it-data-analysis-machine-learning-r-python-stata-sas-c-1523625747626344448?ref=project_share&tier=2 
+  * ***[Upwork](https://www.upwork.com/freelancers/franciskangethenganga)🤢*** 
   * ***[Fiverr](https://www.fiverr.com/s/91Ld2E)🦚***
-  * ***LinkedIn🪬*** - [linkedin.com/in/francis-kang-ethe-nganga-47b979204](https://www.linkedin.com/in/francis-kang-ethe-nganga-47b979204/)
+  * ***[LinkedIn](https://www.linkedin.com/in/francis-kang-ethe-nganga-47b979204/)🪬***
 - 📚📏📐🧑‍💻 Climbing ladders
 <!---
 betaways01/betaways01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

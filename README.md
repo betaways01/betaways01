@@ -1,7 +1,6 @@
 # <center>Niaje Niaje Mtunguyazz 😍😍😍
 # Beta Ways here
-<img src="https://github.com/betaways01/betaways01/assets/111149286/2893d850-946e-4cb2-984a-5c112685a504" width="600" height="500">
-
+<img src="[https://github.com/betaways01/betaways01/assets/111149286/2893d850-946e-4cb2-984a-5c112685a504](https://github.com/betaways01/betaways01/assets/111149286/9906b8b3-ec2b-4194-ab70-8778e52a86d5)" width="300" height="500">
 
 - 👋 @betaways01
 - 👀 I’m interested in everything new and trendy as I start my journey as a software engineer

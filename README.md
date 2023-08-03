@@ -13,10 +13,10 @@
 
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
-  <strong>***Mail📧***</strong> - <a href="mailto:betaways01@gmail.com">betaways01@gmail.com</a><br>
-  <strong><a href="https://www.upwork.com/freelancers/franciskangethenganga">***Upwork***🤢</a></strong><br>
-  <strong><a href="https://www.fiverr.com/s/91Ld2E">***Fiverr***🦚</a></strong><br>
-  <strong><a href="https://www.linkedin.com/in/francis-kang-ethe-nganga-47b979204/">***LinkedIn***🪬</a></strong><br>
+  <strong>Mail📧</strong> - <a href="mailto:betaways01@gmail.com">betaways01@gmail.com</a><br>
+  <strong><a href="https://www.upwork.com/freelancers/franciskangethenganga">Upwork🤢</a></strong><br>
+  <strong><a href="https://www.fiverr.com/s/91Ld2E">Fiverr🦚</a></strong><br>
+  <strong><a href="https://www.linkedin.com/in/francis-kang-ethe-nganga-47b979204/">LinkedIn🪬</a></strong><br>
 </p>
 
 <h3 align="center">📚📏📐🧑‍💻 Climbing ladders</h3>

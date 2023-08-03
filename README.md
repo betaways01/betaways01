@@ -24,7 +24,7 @@
 ---
 
 <div align="center">
-  <em>betaways01 is a ✨ special ✨ person because he `Delivers quality code` (Can't even wait to meet himself in the morning).</em>
+  <em>betaways01 is a ✨ special ✨ person because he `Maketh Things Worketh` (Can't even wait to meet himself in the morning).</em>
   <br>
   <em>You can click the Preview link to take a look at his stuff.</em>
 </div>

@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Beta Ways</h1>
-<h3 align="center">A passionate frontend developer from the Processor</h3>
+<h3 align="center">A passionate developer and `jack of all trade` individual from the Processor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betaways01&label=Profile%20views&color=0e75b6&style=flat" alt="betaways01" /> </p>
 

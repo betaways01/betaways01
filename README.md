@@ -3,7 +3,7 @@
   <img src="https://github.com/betaways01/betaways01/assets/111149286/3cf0c43e-fe98-4f7c-9d97-9abda84efe2b" width="450" height="450" alt="Beta Ways Logo">
 </div>
 
-<h1 align="center">Hi 👋, I'm Beta Ways</h1>
+<h1 align="center">Hi 👋, Welcome to Sigma Sita . . .</h1>
 <h3 align="center">A passionate developer and `jack of all trade` individual from the Processor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betaways01&label=Profile%20views&color=0e75b6&style=flat" alt="betaways01" /> </p>
@@ -14,11 +14,7 @@
 
 - 🔭 I’m currently working on **forex trading platform**
 
-- 🌱 I’m currently learning **php, c++, transformers**
-
-- 👯 I’m looking to collaborate on **matlab**
-
-- 🤝 I’m looking for help with **php**
+- 🌱 I’m currently learning **distribution systems, SaaS Management, c++, and more on LLMs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/betaways01](https://github.com/betaways01)
 

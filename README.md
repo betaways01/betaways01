@@ -27,13 +27,6 @@ Economics & Statistics background, 7+ years shipping software. I take products f
 
 ---
 
-## 📊 GitHub Stats
-
-![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=betaways01&show_icons=true&locale=en)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=betaways01&show_icons=true&locale=en&layout=compact)
-
----
-
 ## 🔗 Connect
 
-[Portfolio](https://franciskangethe.vercel.app) · [LinkedIn](https://linkedin.com/in/francis-kangethe-47b979204) · [X / Twitter](https://x.com/FNganga68485) · [Medium](https://medium.com/@betaways01) · [Kaggle](https://kaggle.com/betaways01)
+[Portfolio](https://franciskangethe.vercel.app) · [X / Twitter](https://x.com/FNganga68485) · [Medium](https://medium.com/@betaways01) · [Kaggle](https://kaggle.com/betaways01)

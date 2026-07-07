@@ -4,14 +4,15 @@
 
 # Hi, I'm Francis Kangethe 👋
 
-### Full-Stack & AI Engineer — I build end-to-end products for US & global clients.
+### Software Engineer & Data Scientist — Economics & Statistics background, building data & AI products for US & global clients.
 
-Economics & Statistics background, 7+ years shipping software. I take products from **pixel-perfect frontends** to **resilient backends**, **AI/LLM pipelines**, and **algorithmic trading systems** — built for performance and shipped to actually work.
+7+ years working where data and software meet. I analyze and model data in Python and SQL, and build full-stack and AI products that put those insights to work — from analytics and dashboards to LLM apps and algorithmic trading systems.
 
 - 🌍 Based in **Nairobi, Kenya** — working async with clients across the **USA, Europe & Asia**
+- 🎓 **BSc, Economics & Statistics** — Maasai Mara University
 - 🔭 Currently building an **AI Text Humanizer SaaS (EdTech)** and an **LMS for African universities**
-- 🧠 Deep in **LLM integration & fine-tuning, SaaS architecture, and quantitative/trading systems**
-- 💬 Ask me about **Python, TypeScript, Next.js, NestJS, FastAPI, LLMs, data analysis & trading systems**
+- 🧠 Into **data analysis, statistical modeling, LLM integration, and quantitative/trading systems**
+- 💬 Ask me about **Python, SQL, data analysis, statistics, Next.js, FastAPI, LLMs & trading systems**
 - 🌐 Portfolio: **https://franciskangethe.vercel.app**
 - 📫 Reach me: **betaways01@gmail.com**
 
@@ -19,14 +20,14 @@ Economics & Statistics background, 7+ years shipping software. I take products f
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React · Next.js · TypeScript · JavaScript · Vue · Tailwind  
-**Backend:** Node.js · NestJS · Python · Django · FastAPI · Flask · GraphQL  
-**Data & AI/ML:** TensorFlow · PyTorch · scikit-learn · Pandas · NumPy · LLM fine-tuning & integration  
-**Databases:** PostgreSQL · MongoDB · Redis · MySQL  
-**Infra & DevOps:** Docker · AWS · Nginx · Firebase · Vercel · Git · Linux
+**Data & Analytics:** Python · SQL · Pandas · NumPy · statistics · data analysis · data visualization  
+**AI / ML:** LLM integration & fine-tuning · scikit-learn · TensorFlow · PyTorch · RAG  
+**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind  
+**Backend:** Node.js · NestJS · Django · FastAPI · Flask · GraphQL  
+**Databases & Infra:** PostgreSQL · MongoDB · Redis · Docker · AWS · Vercel · Git · Linux
 
 ---
 
 ## 🔗 Connect
 
-[Portfolio](https://franciskangethe.vercel.app) · [X / Twitter](https://x.com/FNganga68485) · [Medium](https://medium.com/@betaways01) · [Kaggle](https://kaggle.com/betaways01)
+[Portfolio](https://franciskangethe.vercel.app) · [LinkedIn](https://www.linkedin.com/in/francis-kangethe-1a5629420) · [X / Twitter](https://x.com/FNganga68485) · [Medium](https://medium.com/@betaways01) · [Kaggle](https://kaggle.com/betaways01)
